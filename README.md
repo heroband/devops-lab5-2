@@ -4,7 +4,7 @@ To run
 Open the shell in project directory
 ```shell
 chmod +x start_dev.sh
-./start-dev.sh
+./start_dev.sh
 ```
 
 - Windows:
